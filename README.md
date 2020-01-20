@@ -32,4 +32,5 @@ https://www2.octeth.com/blog/
 Bruno de Barros Bulle
 
 https://www.xlabs.com.br
+
 https://www.linkedin.com/in/bruno-de-barros-bullé-7237a129/
