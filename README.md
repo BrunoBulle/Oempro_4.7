@@ -1,5 +1,5 @@
-# Oempro_4.7
-Octeth Oempro 4.7 allows SQL injection.
+# Oempro 4.7 and 4.8
+Octeth Oempro 4.7 and 4.8 allows SQL injection.
 
 ------------------------------------------
 
@@ -20,6 +20,7 @@ Octeth
 
 [Affected Product Code Base]
 Oempro - 4.7
+Oempro - 4.8
 
 ------------------------------------------
 
@@ -31,3 +32,4 @@ https://www2.octeth.com/blog/
 Bruno de Barros Bulle
 
 https://www.xlabs.com.br
+https://www.linkedin.com/in/bruno-de-barros-bullé-7237a129/
